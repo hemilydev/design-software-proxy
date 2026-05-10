@@ -12,7 +12,7 @@ Implementação do **Padrão Estrutural Proxy** aplicado a um sistema bancário 
 
 O `ContaProxy` atua como intermediário entre o cliente e a `ContaCorrente`, adicionando controle de autenticação, log e limite diário de saques — sem modificar a classe original.
 
-> *"Um substituto ou representante de outro objeto, controlando o acesso a ele."*
+> *"Um substituto ou representante de outro objeto, controlando o acesso a ele."*  
 > — Gang of Four (GoF), 1994
 
 ---
@@ -112,5 +112,5 @@ java Main
 ## Identificação
 
 **Hemily Ramos**
-Análise e Desenvolvimento de Sistemas — Escola Politécnica e de Artes da PUC Goiás
-Design de Software — Prof. Welington Julio Dias Rodrigues — Maio de 2026
+Análise e Desenvolvimento de Sistemas — Escola Politécnica e de Artes da PUC Goiás  
+Design de Software — Prof. Welington Julio Dias Rodrigues — Maio de 2026  
