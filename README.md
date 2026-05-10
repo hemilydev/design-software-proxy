@@ -1,8 +1,8 @@
 # Padrão Proxy – Sistema Bancário
 
-> Atividade Prática — Padrão de Projeto Proxy (Gang of Four)
-> Disciplina: Design de Software
-> Prof. Welington Julio Dias Rodrigues
+> Atividade Prática — Padrão de Projeto Proxy (Gang of Four)  
+> Disciplina: Design de Software  
+> Prof. Welington Julio Dias Rodrigues  
 
 ---
 
